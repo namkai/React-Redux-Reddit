@@ -1,7 +1,8 @@
-import { combineReducers } from 'redux';
+import {combineReducers} from 'redux';
+import {redditReducer} from './reddit_reducers';
 
 const rootReducer = combineReducers({
-  state: (state = {}) => state
+    data: redditReducer
 });
 
 export default rootReducer;

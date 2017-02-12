@@ -1,0 +1,58 @@
+button{
+     border:0 !important;
+     background:none !important;
+     /*And other css to remove the default button property */
+}
+
+img {
+    height: 150px;
+    width: 130px;
+}
+
+.card.small {
+    float: left;
+    height: 330px !important;
+    width: 280px;
+    margin: 5px 5px;
+    background-color: #262626;
+    color: white;
+}
+body{
+
+    background-color:#4a4848;
+}
+a {
+    margin: 0 0px !important;
+}
+button {
+    margin: 0 auto !important;
+}
+nav {
+    height: 60px !important;
+    background-color: rgba(255,0,0,0.28) !important;
+}
+h5 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+
+#logo {
+    font-size: 20px !important;
+    margin: 0 10px !important;
+}
+#orange {
+    color: orange;
+    margin: 0 1px;
+}
+#white {
+    color: white;
+    margin: 0 1px !important;
+}
+#comments{
+    color: #ffab40;
+}
+li {
+    color: white;
+}
